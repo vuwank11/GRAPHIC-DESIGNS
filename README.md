@@ -14,5 +14,17 @@ This repository  consists of all the graphic designs that I've made till date to
 <div><img text-align="centre" src="TENSOR2.0.jpg"></div><br>
 <div><img text-align="centre" src="TENSOR2.1.jpg"></div><br>
 
+5) Lost Under The Night Sky
+<div><img text-align="centre" src="LUTNS.png"></div><br>
+
+6) Eid Mubarak
+<div><img text-align="centre" src="Eid-Mubarak.png"></div><br>
+
+7) Guru Purnima
+<div><img text-align="centre" src="GuruPurnima.png"></div><br>
+
+8) Hiring
+<div><img text-align="centre" src="WeAreHiring(3).png"></div><br>
+
 
 
