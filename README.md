@@ -26,5 +26,11 @@ This repository  consists of all the graphic designs that I've made till date to
 8) Hiring
 <div><img text-align="centre" src="WeAreHiring(3).png"></div><br>
 
+9) Hawaiijahaj
+<div><img text-align="centre" src="Hawaiijahaj.png"></div><br>
+
+10) Hiring
+<div><img text-align="centre" src="Umbrella.png"></div><br>
+
 
 
