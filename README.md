@@ -29,8 +29,17 @@ This repository  consists of all the graphic designs that I've made till date to
 9) Hawaiijahaj
 <div><img text-align="centre" src="Hawaiijahaj.png"></div><br>
 
-10) Hiring
+10) Purple Rain
 <div><img text-align="centre" src="Umbrella.png"></div><br>
+
+11) Cricmandu
+<div><img text-align="centre" src="Cricmandu.png"></div><br>
+
+12) MANCHA
+<div><img text-align="centre" src="MANCHA.png"></div><br>
+
+13) beat Mingle
+<div><img text-align="centre" src="beatMingle.png"></div><br>
 
 
 
