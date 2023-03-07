@@ -41,5 +41,8 @@ This repository  consists of all the graphic designs that I've made till date to
 13) beat Mingle
 <div><img text-align="centre" src="beatMingle.png"></div><br>
 
+14) Dipawali
+<div><img text-align="centre" src="Dipawali.png"></div><br>
+
 
 
