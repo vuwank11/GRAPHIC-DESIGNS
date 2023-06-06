@@ -45,7 +45,7 @@ This repository  consists of all the graphic designs that I've made till date to
 <div><img text-align="centre" src="Dipawali.png"></div><br>
 
 15) Fresh Oregano
-<div><img text-align="centre" src="FRESH-OREGANO"></div><br>
+<div><img text-align="centre" src="FRESH-OREGANO.png"></div><br>
 
 16) Fresh Rosemary
 <div><img text-align="centre" src="Rosemary.png"></div><br>
