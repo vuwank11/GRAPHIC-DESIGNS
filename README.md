@@ -1,5 +1,5 @@
 # GRAPHIC-DESIGNS
-This repository  consists of all the graphic designs that I've made to date to showcase my whole journey in graphic design. The works I've done in order(most recent at the top):
+This repository  consists of all the graphic designs I've made to showcase my whole journey in graphic design. It contains a mix of projects including illustrations, digital art, logos, social media posts and product packaging designs. The works I've done in order(most recent at the top):
 
 CC-Ratio
 <div><img text-align="centre" src="CC-Ratio.png"></div><br>
